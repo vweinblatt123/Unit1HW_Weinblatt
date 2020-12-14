@@ -7,8 +7,10 @@
 * Name of company
 
 * When was the company incorporated?
+Betterment Holdings, Inc, the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities, was established in Delaware on January 29, 2008.
 
 * Who are the founders of the company?
+Jon Stein and Eli Broverman
 
 * How did the idea for the company (or project) come about?
 
@@ -52,3 +54,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+## Works Cited
+https://www.betterment.com/
+https://en.wikipedia.org/wiki/Betterment_(company)
+
