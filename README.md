@@ -6,6 +6,8 @@
 
 * Name of company
 
+Betterment
+
 * When was the company incorporated?
 
 Betterment Holdings, Inc, the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities, was established in Delaware on January  29, 2008.
@@ -26,6 +28,8 @@ Starting in August 2008, Stein and Broverman started with $320k from a personal 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
+Betterment is primarily a retail robo-advisor, designed to automate goal-based investing at comparatively low fees, while also providing cash management and retirement services. The idea is to remove the behavioral biases that most investors exhibit and produce a portfolio rooted in modern portfolio theory (MPT), utilizing low cost ETFs, that automatically rebalances periodically and implements tax-loss harvesting to maximize returns for an investors desired level of risk. Along with MPT, the platform's algorithms rely on the Black-Litterman model, Fama-French model, CAPM, and Monte Carlo simulations.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
