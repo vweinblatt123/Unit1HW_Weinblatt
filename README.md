@@ -8,7 +8,7 @@
 
 * When was the company incorporated?
 
-Betterment Holdings, Inc, the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities, was established in Delaware on January 29, 2008.
+Betterment Holdings, Inc, the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities, was established in Delaware on January  29, 2008.
 
 * Who are the founders of the company?
 
@@ -20,7 +20,7 @@ Stein initially formed the idea for the company in 2008 when considering the mis
 
 * How is the company funded? How much funding have they received?
 
-Bringing on a few other employees, the company 
+Starting in August 2008, Stein and Broverman started with $320k from a personal savings and angel funding. The site goes live in May 2010, and the firm enters **TechCrush Disrupt New York** in June, winning the award of "Biggest New York Disruptor". In less than 24 hours, 500 people have signed up for the service. In November, the firm receives Series A funding from Bessemer Venture Partners to the tune of $2m (plus another $1m from a few other investors). In October 2012, Menlo Ventures provided $10m in Series B funding. 
 
 
 ## Business Activities:
