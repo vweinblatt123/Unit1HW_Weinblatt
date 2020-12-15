@@ -51,11 +51,13 @@ Betterment is a part of the Wealth Management industry, specifically targeting t
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 While the financial techniques used are nothing new (eg, MPT, CAPM, etc) to the investment community, the major trend that robo-advisors has capitilized on is the distrubtion channel, namely the technological innovations of the past 10 years. Aware that the younger generation wanted to do everything digitally, Betterment and others jumped on this opportunity to offer low cost wealth management with the need for mininal (if any) human interaction. Now, young (middle class) adults can let the robo-advisor automatically rebalance their desired asset allocation, monitor their portfolio on their mobile phone or tablet, and rest assured the best techniques are being used for tax-loss harvesting and asset location across their portfolio, without paying exhorbinant fees to a traditional financial advisor unable to beat the market anyway.
+
 Since the launch of Betterment in 2010, the landscape as evolved immensely, with assets managed by robo-advisors jumping to $19b by 2014. The first robo-advisor was then launched in China in 2015, and in 2016 the first platform targeted to women, Ellevest, launched. Global robo-advisor AUM by 2017 had hit $225b, with traditional money managers, such as Vanguard, entering the market, and the top three independent advisors managing nearly 560k client accounts. By then end of 2020, the Chinese market is expected to $900b in AUM, with global assets shooting to $4.6t by 2022.
 
 
 * What are the other major companies in this domain?
 
+The domain contains both independent robo-advisors as well as units at traditional money managers trying to compete in the space. Below is a table of AUM and # of client accounts at the largest such firms.
 
 ## Results
 
