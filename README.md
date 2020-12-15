@@ -29,7 +29,7 @@ Starting in August 2008, Stein and Broverman started with $320k from a personal 
 
 * What specific financial problem is the company or project trying to solve?
 
-Betterment is primarily a retail robo-advisor, designed to automate goal-based investing at comparatively low fees, while also providing cash management and retirement services. The idea is to remove the behavioral biases that most investors exhibit and produce a portfolio rooted in modern portfolio theory (MPT), utilizing low cost ETFs, that automatically rebalances periodically and implements tax-loss harvesting to maximize returns for an investors desired level of risk. Along with MPT, the platform's algorithms rely on the Black-Litterman model, Fama-French model, CAPM, and Monte Carlo simulations.
+Betterment is primarily a retail robo-advisor, designed to automate goal-based investing at comparatively low fees, while also providing cash management and retirement services. The idea is to remove the behavioral biases that most investors exhibit and produce a portfolio rooted in modern portfolio theory (MPT), utilizing low cost ETFs, that automatically rebalances periodically and implements tax-loss harvesting to maximize returns for an investors desired level of risk. Along with MPT, the platform's algorithms rely on the Black-Litterman model, Fama-French model, CAPM, and Monte Carlo simulations. Further, the compnay offers SRI, smart beta, and income focused products, along with high yield savings accounts and extensive educational materials.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? 
@@ -57,7 +57,9 @@ Since the launch of Betterment in 2010, the landscape as evolved immensely, with
 
 * What are the other major companies in this domain?
 
-The domain contains both independent robo-advisors as well as units at traditional money managers trying to compete in the space. Below is a table of AUM and # of client accounts at the largest such firms.
+The domain contains both independent robo-advisors as well as units at traditional money managers trying to compete in the space. 
+
+
 
 ## Results
 
@@ -101,5 +103,6 @@ The domain contains both independent robo-advisors as well as units at tradition
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
 (11) https://www.financialsamurai.com/largest-robo-advisors-by-assets-under-management-aum/
+
 
 
