@@ -32,12 +32,14 @@ Starting in August 2008, Stein and Broverman started with $320k from a personal 
 Betterment is primarily a retail robo-advisor, designed to automate goal-based investing at comparatively low fees, while also providing cash management and retirement services. The idea is to remove the behavioral biases that most investors exhibit and produce a portfolio rooted in modern portfolio theory (MPT), utilizing low cost ETFs, that automatically rebalances periodically and implements tax-loss harvesting to maximize returns for an investors desired level of risk. Along with MPT, the platform's algorithms rely on the Black-Litterman model, Fama-French model, CAPM, and Monte Carlo simulations.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+What solution does this company offer that their competitors do not or cannot offer? 
 
 The company's intended customers are young Millenials that like to due things on their own, via technology, and do not have enough assets (or the desire) to work with a professional money manager, as well as those that see traditional advisors' fees as too high and the service underwhelming. This market size is obviously enormous, with a reported 72m Millenials in the US as of 2019 (5).
 While there are many robo-advisors out there, including large traditional financial institutions starting their own, Betterment is the largest dedicated firm in the space, with 480,000 customers and over $22b in AUM (as of March 2020). They offer the lowest management fee (0.25%) and $0 minimum balances (compared to $500 at Wealthfront and $100k at Personal Capital). They also offer fractional share investing and asset location (ie, tax coordination) across accounts, which many others do not. Lastly, Betterment's site is filled with educational articles and white papers aimed at new investors.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? 
+
+Betterment has a large technology stack. They use Ruby on Rails for app development as well as server-side programming using Ruby, Java, Scala, C#, C++, and Python. They make extensive use of the cloud, both via AWS and the Google Cloud Platform. Mobile apps are developed using Objective-C, Swift, Java and Kotlin, and they are further building the stack by diving into Dart and Flutter. Other technologies used in the firm include PHP, HTML, Javascript, and MySQL.
 
 
 ## Landscape:
@@ -81,6 +83,12 @@ While there are many robo-advisors out there, including large traditional financ
 (5) https://www.statista.com/statistics/797321/us-population-by-generation/
 
 (6) https://www.investopedia.com/best-robo-advisors-4693125
+
+(7) https://betterment.engineering/
+
+(8) https://stackshare.io/betterment/betterment
+
+(9) https://stack.g2.com/company/betterment
 
 
 
