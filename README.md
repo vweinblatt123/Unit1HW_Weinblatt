@@ -34,6 +34,9 @@ Betterment is primarily a retail robo-advisor, designed to automate goal-based i
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+The company's intended customers are young Millenials that like to due things on their own, via technology, and do not have enough assets (or the desire) to work with a professional money manager, as well as those that see traditional advisors' fees as too high and the service underwhelming. This market size is obviously enormous, with a reported 72m Millenials in the US as of 2019 (5).
+While there are many robo-advisors out there, including large traditional financial institutions starting their own, Betterment is the largest dedicated firm in the space, with 480,000 customers and over $22b in AUM (as of March 2020). They offer the lowest management fee (0.25%) and $0 minimum balances (compared to $500 at Wealthfront and $100k at Personal Capital). They also offer fractional share investing and asset location (ie, tax coordination) across accounts, which many others do not. Lastly, Betterment's site is filled with educational articles and white papers aimed at new investors.
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
@@ -72,5 +75,12 @@ What solution does this company offer that their competitors do not or cannot of
 (2) https://en.wikipedia.org/wiki/Betterment_(company)
 
 (3) https://www.inc.com/magazine/201303/robin-d-schatz/how-we-got-funded-betterment.html
+
+(4) https://www.bankrate.com/investing/betterment-app-review/
+
+(5) https://www.statista.com/statistics/797321/us-population-by-generation/
+
+(6) https://www.investopedia.com/best-robo-advisors-4693125
+
 
 
