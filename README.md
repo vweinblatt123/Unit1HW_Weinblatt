@@ -35,7 +35,7 @@ Betterment is primarily a retail robo-advisor, designed to automate goal-based i
 What solution does this company offer that their competitors do not or cannot offer? 
 
 The company's intended customers are young Millenials that like to due things on their own, via technology, and do not have enough assets (or the desire) to work with a professional money manager, as well as those that see traditional advisors' fees as too high and the service underwhelming. This market size is obviously enormous, with a reported 72m Millenials in the US as of 2019 (5).
-While there are many robo-advisors out there, including large traditional financial institutions starting their own, Betterment is the largest dedicated firm in the space, with 480,000 customers and over $22b in AUM (as of March 2020). They offer the lowest management fee (0.25%) and $0 minimum balances (compared to $500 at Wealthfront and $100k at Personal Capital). They also offer fractional share investing and asset location (ie, tax coordination) across accounts, which many others do not. Lastly, Betterment's site is filled with educational articles and white papers aimed at new investors.
+While there are many robo-advisors out there, including large traditional financial institutions starting their own, Betterment is the largest independent firm in the space, with 480,000 customers and over $22b in AUM (as of March 2020). They offer the lowest management fee (0.25%) and $0 minimum balances (compared to $500 at Wealthfront and $100k at Personal Capital). They also offer fractional share investing and asset location (ie, tax coordination) across accounts, which many others do not. Lastly, Betterment's site is filled with educational articles and white papers aimed at new investors.
 
 * Which technologies are they currently using, and how are they implementing them? 
 
@@ -46,7 +46,13 @@ Betterment has a large technology stack. They use Ruby on Rails for app developm
 
 * What domain of the financial industry is the company in?
 
+Betterment is a part of the Wealth Management industry, specifically targeting the retail market, serving as a robo-advisor. In fact, Betterment is considered one of the very first robo-advisors, a distinction that has led to its popularity versus competitors as it enjoyed a first-mover advantage. As previously mentioned, the firm caters to young adults that prefer low fees and instructive technology, as compared to high fee financial advisors that provide subpar services or only cater to high net worth individuals. 
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+While the financial techniques used are nothing new (eg, MPT, CAPM, etc) to the investment community, the major trend that robo-advisors has capitilized on is the distrubtion channel, namely the technological innovations of the past 10 years. Aware that the younger generation wanted to do everything digitally, Betterment and others jumped on this opportunity to offer low cost wealth management with the need for mininal (if any) human interaction. Now, young (middle class) adults can let the robo-advisor automatically rebalance their desired asset allocation, monitor their portfolio on their mobile phone or tablet, and rest assured the best techniques are being used for tax-loss harvesting and asset location across their portfolio, without paying exhorbinant fees to a traditional financial advisor unable to beat the market anyway.
+Since the launch of Betterment in 2010, the landscape as evolved immensely, with assets managed by robo-advisors jumping to $19b by 2014. The first robo-advisor was then launched in China in 2015, and in 2016 the first platform targeted to women, Ellevest, launched. Global robo-advisor AUM by 2017 had hit $225b, with traditional money managers, such as Vanguard, entering the market, and the top three independent advisors managing nearly 560k client accounts. By then end of 2020, the Chinese market is expected to $900b in AUM, with global assets shooting to $4.6t by 2022.
+
 
 * What are the other major companies in this domain?
 
@@ -89,6 +95,8 @@ Betterment has a large technology stack. They use Ruby on Rails for app developm
 (8) https://stackshare.io/betterment/betterment
 
 (9) https://stack.g2.com/company/betterment
+
+(10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
 
 
