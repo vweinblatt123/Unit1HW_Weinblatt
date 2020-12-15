@@ -59,6 +59,8 @@ Since the launch of Betterment in 2010, the landscape as evolved immensely, with
 
 The domain contains both independent robo-advisors as well as units at traditional money managers trying to compete in the space. 
 
+![aum chart](largest-robo-advisors-by-AUM.webp)
+
 
 
 ## Results
