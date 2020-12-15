@@ -100,5 +100,6 @@ The domain contains both independent robo-advisors as well as units at tradition
 
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
+(11) https://www.financialsamurai.com/largest-robo-advisors-by-assets-under-management-aum/
 
 
