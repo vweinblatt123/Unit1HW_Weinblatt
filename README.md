@@ -65,11 +65,12 @@ as of June 2020. Note: AUM for traditional advisors includes all assetes, not ju
 
 Betterment has truly revolutionized how many invest, guiding assets away from traditional adviors permanently. By 2015, the company had become the largest robo-advisor in the world, just five years after launch. And by 2017 it remained the largest independed robo-advisor, mangaging over $10b. In the same year, traditional managers' profit margins had fallen by a third as more and more clients turned to robo-advisors like Betterment, really highlighting the industry impact of robo-adviors. (10)
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  How is your company performing relative to competitors in the same domain?
+
+Success in the asset management business, whether at the traditional advisors or up and coming robo-advisors, if measured first and foremost in AUM 
 
 
 
-* How is your company performing relative to competitors in the same domain?
 
 
 ## Recommendations
