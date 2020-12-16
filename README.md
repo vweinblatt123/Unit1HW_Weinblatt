@@ -4,10 +4,6 @@
 
 ## Overview and Origin
 
-* Name of company
-
-Betterment
-
 * When was the company incorporated?
 
 Betterment Holdings, Inc, the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities, was established in Delaware on January  29, 2008.
