@@ -2,6 +2,8 @@
 
 # Betterment Case Study
 
+![betterment](Betterment.png)
+
 ## Overview and Origin
 
 * When was the company incorporated?
