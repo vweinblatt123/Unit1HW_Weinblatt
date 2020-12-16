@@ -55,9 +55,9 @@ Since the launch of Betterment in 2010, the landscape as evolved immensely, with
 
 The domain contains both independent robo-advisors as well as units at traditional money managers trying to compete in the space. Independent advisors include Betterment, Wealthfront, Personal Capital, and Acorns. Traditional managers in the space include Vanguard, Schwab, TD Ameritrade, and T. Rowe Price.
 
-![aum chart](largest-robo-advisors-by-AUM.webp)
 
-as of June 2020. Note: AUM for traditional advisors includes all assetes, not just their robo-advisor assets (11)
+
+as of June 2020. (11)
 
 ## Results
 
@@ -105,7 +105,8 @@ Success in the asset management business, whether at the traditional advisors or
 
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
-(11) https://www.financialsamurai.com/largest-robo-advisors-by-assets-under-management-aum/
+(11) https://www.backendbenchmarking.com/the-robo-report/
+
 
 
 
