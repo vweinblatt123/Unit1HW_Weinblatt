@@ -1,7 +1,5 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 
-# Betterment Case Study
-
 ![betterment](Betterment.png)
 
 ## Overview and Origin
