@@ -12,7 +12,7 @@ Betterment Holdings, Inc, the parent company for Betterment LLC (originally foun
 
 * Who are the founders of the company?
 
-Jon Stein (Columbia MBA grad) and Eli Broverman (lawyer out of NYU Law)
+Jon Stein (Columbia MBA grad) and Eli Broverman (NYU Law grad)
 
 * How did the idea for the company (or project) come about?
 
@@ -20,7 +20,7 @@ Stein initially formed the idea for the company in 2008 when considering the mis
 
 * How is the company funded? How much funding have they received?
 
-Starting in August 2008, Stein and Broverman started with $320k from a personal savings and angel funding. The site goes live in May 2010, and the firm enters **TechCrush Disrupt New York** in June, winning the award of "Biggest New York Disruptor". In less than 24 hours, 500 people have signed up for the service. In November, the firm receives Series A funding from Bessemer Venture Partners to the tune of $2m (plus another $1m from a few other investors). In October 2012, Menlo Ventures provided $10m in Series B funding. 
+Starting in August 2008, Stein and Broverman started with $320k from a personal savings and angel funding. The site goes live in May 2010, and the firm enters **TechCrush Disrupt New York** in June, winning the award of "Biggest New York Disruptor". In less than 24 hours, 500 people have signed up for the service. In November, the firm receives Series A funding from Bessemer Venture Partners to the tune of $2m (plus another $1m from a few other investors). In October 2012, Menlo Ventures provided $10m in Series B funding. (2, 3)
 
 
 ## Business Activities:
@@ -37,7 +37,7 @@ While there are many robo-advisors out there, including large traditional financ
 
 * Which technologies are they currently using, and how are they implementing them? 
 
-Betterment has a large technology stack. They use Ruby on Rails for app development as well as server-side programming using Ruby, Java, Scala, C#, C++, and Python. They make extensive use of the cloud, both via AWS and the Google Cloud Platform. Mobile apps are developed using Objective-C, Swift, Java and Kotlin, and they are further building the stack by diving into Dart and Flutter. Other technologies used in the firm include PHP, HTML, Javascript, and MySQL.
+Betterment has a large technology stack. They use Ruby on Rails for app development as well as server-side programming using Ruby, Java, Scala, C#, C++, and Python. They make extensive use of the cloud, both via AWS and the Google Cloud Platform. Mobile apps are developed using Objective-C, Swift, Java and Kotlin, and they are further building the stack by diving into Dart and Flutter. Other technologies used in the firm include PHP, HTML, Javascript, and MySQL. (7, 8, 9)
 
 
 ## Landscape:
@@ -50,7 +50,7 @@ Betterment is a part of the Wealth Management industry, specifically targeting t
 
 While the financial techniques used are nothing new (eg, MPT, CAPM, etc) to the investment community, the major trend that robo-advisors has capitilized on is the distrubtion channel, namely the technological innovations of the past 10 years. Aware that the younger generation wanted to do everything digitally, Betterment and others jumped on this opportunity to offer low cost wealth management with the need for mininal (if any) human interaction. Now, young (middle class) adults can let the robo-advisor automatically rebalance their desired asset allocation, monitor their portfolio on their mobile phone or tablet, and rest assured the best techniques are being used for tax-loss harvesting and asset location across their portfolio, without paying exhorbinant fees to a traditional financial advisor unable to beat the market anyway.
 
-Since the launch of Betterment in 2010, the landscape as evolved immensely, with assets managed by robo-advisors jumping to $19b by 2014. The first robo-advisor was then launched in China in 2015, and in 2016 the first platform targeted to women, Ellevest, launched. Global robo-advisor AUM by 2017 had hit $225b, with traditional money managers, such as Vanguard, entering the market, and the top three independent advisors managing nearly 560k client accounts. By then end of 2020, the Chinese market is expected to $900b in AUM, with global assets shooting to $4.6t by 2022.
+Since the launch of Betterment in 2010, the landscape as evolved immensely, with assets managed by robo-advisors jumping to $19b by 2014. The first robo-advisor was then launched in China in 2015, and in 2016 the first platform targeted to women, Ellevest, launched. Global robo-advisor AUM by 2017 had hit $225b, with traditional money managers, such as Vanguard, entering the market, and the top three independent advisors managing nearly 560k client accounts. By the end of 2020, the Chinese market is expected to hit $900b in AUM, with global assets shooting to $4.6t by 2022. (10)
 
 
 * What are the other major companies in this domain?
