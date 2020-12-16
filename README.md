@@ -57,7 +57,7 @@ The domain contains both independent robo-advisors as well as units at tradition
 
 ![aum chart](largest-robo-advisors-by-AUM.webp)
 
-as of June 2020 (11)
+as of June 2020. Note: AUM for traditional advisors includes all assetes, not just their robo-advisor assets (11)
 
 ## Results
 
