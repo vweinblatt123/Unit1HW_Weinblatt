@@ -55,7 +55,7 @@ Since the launch of Betterment in 2010, the landscape as evolved immensely, with
 
 The domain contains both independent robo-advisors as well as units at traditional money managers trying to compete in the space. Independent advisors include Betterment, Wealthfront, Personal Capital, and Acorns. Traditional managers in the space include Vanguard, Schwab, TD Ameritrade, and T. Rowe Price.
 
-![aum](robo_aum.PNG)
+![aum](robo_aums.PNG)
 
 as of June 2020 (11)
 
