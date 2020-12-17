@@ -57,7 +57,7 @@ The domain contains both independent robo-advisors as well as units at tradition
 
 ![aum](robo_aum.PNG)
 
-as of June 2020. (11)
+as of June 2020 (11)
 
 ## Results
 
@@ -75,7 +75,7 @@ Finally, as with any manager, survival depends on performance. No matter how nov
 
 ![returns](robo_returns.PNG)
 
-![sharpe](robo_sharpe.png)
+![sharpe](robo_sharpe.PNG)
 
 as of June 2020 (11)
 
