@@ -71,8 +71,13 @@ Success in the asset management business, whether at the traditional advisors or
 
 ![stats](robo_stats.PNG)
 
+Finally, as with any manager, survival depends on performance. No matter how novel the technology is, clients will not give funds to an underperforming advisor. Unfortunately, on this front, Betterment has underperformed its peers over the last 2.5 years (Dec 2017 to June 2020), returning just 1.8% in its taxable 60/40 stock/bond portfolio, compared to an industry averge of 3.2%. Nonetheless, looking at a longer time horizon and taking risk into account, Betterment's taxable portfolio exhibits a Sharpe ratio of 0.43, in line with industry peers.
 
+![returns](robo_returns.PNG)
 
+![sharpe](robo_sharpe.png)
+
+as of June 2020 (11)
 
 
 ## Recommendations
