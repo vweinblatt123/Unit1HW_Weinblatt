@@ -84,14 +84,12 @@ as of June 2020 (11)
 
 * If you were to advise the company, what products or services would you suggest they offer? Why do you think that offering this product or service would benefit the company?
 
-In addition to investing services, it should first be noted Betterment offers cash management, retirement (including employer 401(k) programs), and services for advisors, similar to many of its competitors. One service others, such as Acorns, offers that Betterment does not is fractional share investing and a "rounding up" option. This is when the client links their debit or credit card to their investment account and every purchase is rounded up the the next whole dollar, with the remainder invested in their portfolio. The robo-advisor then purchases fractional shares of the portfolio ETFs, to the client fully invests the rounded up amount. Offering this service would likely draw in new customers, particularly those with even smaller investable assets than the typical Betterment client. As seen above, teh number of accounts (though not the assets)
+In addition to investing services, it should first be noted Betterment offers cash management, retirement (including employer 401(k) programs), and services for advisors, similar to many of its competitors. One service others, such as Acorns, offers that Betterment does not is fractional share investing and a "rounding up" option. This is when the client links their debit or credit card to their investment account and every purchase is rounded up the the next whole dollar, with the remainder invested in their portfolio. The robo-advisor then purchases fractional shares of the portfolio ETFs, to the client fully invests the rounded up amount. (12) Offering this service would likely draw in new customers, particularly those with even smaller investable assets than the typical Betterment client. As seen above, the number of accounts (though not the assets) at Acorns outnumbers those at Betterment. Additional clients would mean more fee revenue for the firm, even if the additional accounts are likely smaller. 
+
 
 robo advisor 4.0,  fractional shares, cash/retirement/advisors, single stock
 
-* 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
 
 
 ## Addendum 
@@ -116,6 +114,8 @@ robo advisor 4.0,  fractional shares, cash/retirement/advisors, single stock
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
 (11) https://www.backendbenchmarking.com/the-robo-report/
+
+(12) https://en.wikipedia.org/wiki/Acorns_(company)
 
 
 
