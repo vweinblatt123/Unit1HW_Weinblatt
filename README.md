@@ -6,7 +6,7 @@
 
 * When was the company incorporated?
 
-Incorporated in Delware on January 29, 2008, Betterment Holdings, Inc, is the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities (a broker/dealer). (1)
+Incorporated in Delaware on January 29, 2008, Betterment Holdings, Inc, is the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities (a broker/dealer). (1)
 
 * Who are the founders of the company?
 
@@ -30,8 +30,8 @@ Betterment is primarily a retail robo-advisor, designed to automate goal-based i
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? 
 
-The company's intended customers are young Millennials that like to due things on their own, via technology, and do not have enough assets (or the desire) to work with a professional money manager, as well as those that see traditional advisors' fees as too high and the service underwhelming. This market size is obviously enormous, with a reported 72m Millennials in the US as of 2019 (5).
-While there are many robo-advisors out there, including large traditional financial institutions starting their own, Betterment is the largest independent firm in the space, with 500,000 customers and over $18b in AUM (as of June 2020). They offer low management fees (0.25%) and $0 minimum balances (compared to $500 at Wealthfront and $100k at Personal Capital). They also offer fractional share investing and asset location (ie, tax coordination) across accounts, which many others do not. Lastly, Betterment's site is filled with educational articles and white papers aimed at new investors. (2)
+The company's intended customers are young Millennials that like to do things on their own, via technology, and do not have enough assets (or the desire) to work with a professional money manager, as well as those that see traditional advisors' fees as too high and the service underwhelming. This market size is obviously enormous, with a reported 72m Millennials in the US as of 2019 (5).
+While there are many robo-advisors out there, including large traditional financial institutions starting their own, Betterment is the largest independent firm in the space, with 500,000 customers and over $18b in AUM (as of June 2020). They offer low management fees (0.25%) and $0 minimum balances (compared to $500 at Wealthfront and $100k at Personal Capital). They also offer fractional share investing and asset location (i.e., tax coordination) across accounts, which many others do not. Lastly, Betterment's site is filled with educational articles and white papers aimed at new investors. (2)
 
 * Which technologies are they currently using, and how are they implementing them? 
 
@@ -46,7 +46,7 @@ Betterment is a part of the Wealth Management industry, specifically targeting t
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-While the financial techniques used are nothing new (eg, MPT, CAPM, etc) to the investment community, the major trend that robo-advisors has capitilized on is the distrubtion channel, namely the technological innovations of the past 10 years. Aware that the younger generation wanted to do everything digitally, Betterment and others jumped on this opportunity to offer low cost wealth management with the need for mininal (if any) human interaction. Now, young (middle class) adults can let the robo-advisor automatically rebalance their desired asset allocation, monitor their portfolio on their mobile phone or tablet, and rest assured the best techniques are being used for tax-loss harvesting and asset location across their portfolio, without paying exhorbinant fees to a traditional financial advisor unable to beat the market.
+While the financial techniques used are nothing new (e.g., MPT, CAPM) to the investment community, the major trend that robo-advisors has capitalized on is the distribution channel, namely the technological innovations of the past 10 years. Aware that the younger generation wanted to do everything digitally, Betterment and others jumped on this opportunity to offer low cost wealth management with the need for minimal (if any) human interaction. Now, young (middle class) adults can let the robo-advisor automatically rebalance their desired asset allocation, monitor their portfolio on their mobile phone or tablet, and rest assured the best techniques are being used for tax-loss harvesting and asset location across their portfolio, without paying exorbitant fees to a traditional financial advisor unable to beat the market.
 
 Since the launch of Betterment in 2010, the landscape has evolved immensely, with assets managed by robo-advisors jumping to $19b by 2014. The first robo-advisor was then launched in China in 2015, and in 2016 the first platform targeted to women, Ellevest, launched. Global robo-advisor AUM by 2017 had hit $225b, with traditional money managers, such as Vanguard, entering the market, and the top three independent advisors managing nearly 560k client accounts. By the end of 2020, the Chinese market is expected to hit $900b in AUM, with global assets shooting to $4.6t by 2022. (10)
 
@@ -63,7 +63,7 @@ as of June 2020 (11)
 
 * What has been the business impact of this company so far?
 
-Betterment has truly revolutionized how many invest, guiding assets away from traditional adviors permanently. By 2015, the company had become the largest robo-advisor in the world, just five years after launch. And by 2017 it remained the largest independent robo-advisor, mangaging over $10b. In the same year, traditional managers' profit margins had fallen by a third as more and more clients turned to robo-advisors like Betterment, further highlighting the industry impact of robo-adviors. (10)
+Betterment has truly revolutionized how many invest, guiding assets away from traditional advisors permanently. By 2015, the company had become the largest robo-advisor in the world, just five years after launch. And by 2017 it remained the largest independent robo-advisor, managing over $10b. In the same year, traditional managers' profit margins had fallen by a third as more and more clients turned to robo-advisors like Betterment, further highlighting the industry impact of robo-advisors. (10)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  How is your company performing relative to competitors in the same domain?
 
@@ -88,7 +88,7 @@ In addition to investing services, it should first be noted Betterment offers ca
 
 * What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
 
-While the underlying financial techniques (MPT, CAPM, etc) already utilized would suffice for this new product, the firm would need additional data and analytics to cover more illiquid parts of the market for incorporation into their asset allocation methodology. For example, Betterment portfolios are made up strictly of stock and bond ETFs at the moment, including US small and large cap, international developed stocks and bonds, emerging market stocks and bonds, US treasuries, inflation protected bonds, and US munis. They do not include assets such as commodities, REITs, or liquid alts. By offering clients these as investment options, risk factors would have to be computed for these assets, in use in the overall asset allocation process. This requires gathering the appropriate historical data for these assets, which can be hard and sparse; assumptions about returns and risk may have to be developed and included in the portfolio optimization and rebalancing process. These techniques are appropriate for this solution as the firm continues to use cutting-edge methodologies in portfolio management.
+While the underlying financial techniques (MPT, CAPM, etc.) already utilized would suffice for this new product, the firm would need additional data and analytics to cover more illiquid parts of the market for incorporation into their asset allocation methodology. For example, Betterment portfolios are made up strictly of stock and bond ETFs at the moment, including US small and large cap, international developed stocks and bonds, emerging market stocks and bonds, US treasuries, inflation protected bonds, and US munis. They do not include assets such as commodities, REITs, or liquid alts. By offering clients these as investment options, risk factors would have to be computed for these assets, in use in the overall asset allocation process. This requires gathering the appropriate historical data for these assets, which can be hard and sparse; assumptions about returns and risk may have to be developed and included in the portfolio optimization and rebalancing process. These techniques are appropriate for this solution as the firm continues to use cutting-edge methodologies in portfolio management.
 
 
 ## Addendum 
@@ -113,5 +113,4 @@ While the underlying financial techniques (MPT, CAPM, etc) already utilized woul
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
 (11) https://www.backendbenchmarking.com/the-robo-report/
-
 
