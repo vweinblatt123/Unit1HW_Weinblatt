@@ -84,14 +84,11 @@ as of June 2020 (11)
 
 * If you were to advise the company, what products or services would you suggest they offer? Why do you think that offering this product or service would benefit the company?
 
-In addition to investing services, it should first be noted Betterment offers cash management, retirement (including employer 401(k) programs), and services for advisors, similar to many of its competitors. 
-
-
-robo advisor 4.0,  fractional shares, cash/retirement/advisors, single stock
+In addition to investing services, it should first be noted Betterment offers cash management, retirement (including employer 401(k) programs), and services for advisors, similar to many of its competitors. However, Betterment only offers ETF-based portfolios. Several competitors allow the investor to purchase individual stocks within their portfolio, as well as other ETFs that are not part of the defined portfolios. Investors may want to allocate a small portion of their overall portfolio to a "hot stock" or take a risk on an interesting sector of the market not offered in the Betterment portfolio options. Of course, they could do this in a separate brokerage account outside of Betterment, but by allowing the client to do this on the Betterment platform, the firm better captures the client's entire investment portfolio, making future advise more appropriate. If prospective clients knew this was an option, they may select Betterment over a competitor with this differentiated offering.
 
 * What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
 
-
+While the underlying financial techniques (MPT, CAPM, etc) already utilized would suffice for this new product, the firm would need additional data and analytics to cover more illiquid parts of the market for incorporation into their asset allocation methodology. For example, Betterment portfolios are made up strictly of stock and bond ETFs at the moment, including US small and large cap, international developed stocks and bonds, emerging market stocks and bonds, US treasuries, inflation protected bonds, and US munis. They do not include assets such as commodities, REITs, or liquid alts. By offering clients these as investment options, risk factors would have to computed for these assets, in use in the overall asset allocation process. This requires gathering the appropriate data for these assets, which can be hard and sparse; assumptions about returns and risk may have to be developed and included in the portfolio optimization and rebalancing process. 
 
 
 ## Addendum 
@@ -116,9 +113,5 @@ robo advisor 4.0,  fractional shares, cash/retirement/advisors, single stock
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
 (11) https://www.backendbenchmarking.com/the-robo-report/
-
-(12) https://en.wikipedia.org/wiki/Acorns_(company)
-
-
 
 
