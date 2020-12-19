@@ -67,7 +67,7 @@ Betterment has truly revolutionized how many invest, guiding assets away from tr
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  How is your company performing relative to competitors in the same domain?
 
-Success in the asset management business, whether at the traditional advisors or up-and-coming robo-advisors, is measured first and foremost in AUM. As the chart above shows, on this metric, Betterment is leading the pack. Beyond AUM, and considering many independent robo-advisors are new start-up, funds raised, valuation, and number of clients are key metrics of success. From the chart below we can see Betterment has raised the most funds in the space and is valued at the top end of its peer range. While Acorns has the most accounts, which is a result of its focus on micro-investing, where customers can round up purchases to buy fractional shares, Betterment comes in second.
+Success in the asset management business, whether at the traditional advisors or up-and-coming robo-advisors, is measured first and foremost in AUM. As the chart above shows, on this metric, Betterment is leading the pack. Beyond AUM, and considering many independent robo-advisors are start-ups, funds raised, valuation, and number of clients are key metrics of success. From the chart below we can see Betterment has raised the most funds in the space and is valued at the top end of its peer range. While Acorns has the most accounts, which is a result of its focus on micro-investing, where customers can round up purchases to buy fractional shares, Betterment comes in second.
 
 ![stats](robo_stats.PNG)
 
