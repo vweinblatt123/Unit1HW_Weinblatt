@@ -6,7 +6,7 @@
 
 * When was the company incorporated?
 
-Incorporated in Delaware on January 29, 2008, Betterment Holdings, Inc, is the parent company for Betterment LLC (originally founded in April 2009) and Betterment Securities (a broker/dealer). (1)
+Incorporated in Delaware on January 29, 2008, Betterment Holdings, Inc, is the parent company for Betterment LLC (established in April 2009) and Betterment Securities (a broker/dealer). (1)
 
 * Who are the founders of the company?
 
