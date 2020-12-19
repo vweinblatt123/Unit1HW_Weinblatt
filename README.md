@@ -25,7 +25,7 @@ Starting in August 2008, Stein and Broverman started with $320k from personal sa
 
 * What specific financial problem is the company or project trying to solve?
 
-Betterment is primarily a retail robo-advisor, designed to automate goal-based investing at comparatively low fees, while also providing cash management and retirement services. The idea is to remove the behavioral biases that most investors exhibit and produce a portfolio rooted in modern portfolio theory (MPT), utilizing low cost ETFs, that automatically rebalances periodically and implements tax-loss harvesting to maximize returns for an investor's desired level of risk. Along with MPT, the platform's algorithms rely on the Black-Litterman model, Fama-French model, CAPM, and Monte Carlo simulations. Further, the company offers SRI, smart beta, and income focused products, along with high yield savings accounts and extensive educational materials. (2)
+Betterment is primarily a retail robo-advisor, designed to automate goal-based investing at comparatively low fees, while also providing cash management and retirement services. The idea is to remove the behavioral biases that most investors exhibit and produce a portfolio rooted in modern portfolio theory (MPT), utilizing low cost ETFs, that automatically rebalances periodically and implements tax-loss harvesting to maximize returns for an investor's desired level of risk (determined from a questionnaire filled out when the client first signs up for the service). Along with MPT, the platform's algorithms rely on the Black-Litterman model, Fama-French model, CAPM, and Monte Carlo simulations. Further, the company offers SRI, smart beta, and income focused products, along with high yield savings accounts and extensive educational materials. (2)
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? 
@@ -113,4 +113,9 @@ While the underlying financial techniques (MPT, CAPM, etc.) already utilized wou
 (10) https://roboadvisors.com/history-of-robo-advisors/index.html
 
 (11) https://www.backendbenchmarking.com/the-robo-report/
+
+(12) https://en.wikipedia.org/wiki/Robo-advisor
+
+(13) https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf
+
 
