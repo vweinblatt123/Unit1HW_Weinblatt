@@ -21,7 +21,7 @@ Stein initially formed the idea for the company in 2008 when considering the mis
 Beginning in August 2008, Stein and Broverman started with $320k from personal savings and angel funding. The site went live in May 2010, and the firm entered TechCrush Disrupt New York in June, winning the award of "Biggest New York Disruptor". In less than 24 hours, 500 people have signed up for the service. In November, the firm received Series A funding from Bessemer Venture Partners to the tune of $2m (plus another $1m from a few other investors). In October 2012, Menlo Ventures provided $10m in Series B funding, along with Bessemer and Anthemis Group. (1, 2, 3)
 
 
-## Business Activities:
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 
@@ -38,7 +38,7 @@ While there are many robo-advisors out there, including large traditional financ
 Betterment has a large technology stack. They use Ruby on Rails for app development as well as server-side programming using Ruby, Java, Scala, C#, C++, and Python. They make extensive use of the cloud, both via AWS and the Google Cloud Platform. Mobile apps are developed using Objective-C, Swift, Java and Kotlin, and they are further building the stack by diving into Dart and Flutter. Other technologies used in the firm include PHP, HTML, Javascript, and MySQL. (7, 8, 9)
 
 
-## Landscape:
+## Landscape
 
 * What domain of the financial industry is the company in?
 
