@@ -42,7 +42,7 @@ Betterment has a large technology stack. They use Ruby on Rails for app developm
 
 * What domain of the financial industry is the company in?
 
-Betterment is a part of the Wealth Management industry, specifically targeting the retail market, serving as a robo-advisor. In fact, Betterment is considered one of the very first robo-advisors, a distinction that has led to its popularity versus competitors as it enjoys a first-mover advantage. As previously mentioned, the firm caters to young adults that prefer low fees and instructive technology, as compared to high fee financial advisors that provide subpar services or only cater to high net worth individuals. 
+Betterment is a part of the Wealth Management industry, specifically targeting the retail market, serving as a robo-advisor. In fact, Betterment is considered one of the very first robo-advisors, a distinction that has led to its popularity versus competitors as it enjoys a first-mover advantage. As previously mentioned, the firm caters to young adults that prefer low fees and instructive technology, as compared to high fee financial advisors that provide subpar services or only cater to high net worth individuals. In addition, the company has attracted many baby boomers nearing retirement, with substantial assets to invest.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
