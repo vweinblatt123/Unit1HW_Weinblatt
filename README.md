@@ -14,7 +14,7 @@ Jon Stein (Columbia MBA grad) and Eli Broverman (NYU Law grad)
 
 * How did the idea for the company (or project) come about?
 
-Stein initially formed the idea for the company in 2008 when considering the mistakes he was making with his own personal investments. He wanted to build a platform that "told me what to do with my money, and then did it" (1), so he would not fall into typical bad investing habits, such as trying to time the market, selling winners too soon, and churning his portfolio. He initially planned to build the entire platform himself, but had no programming background, so he turned to his roommate at the time, Harvard CS major, Sean Owen. With Stein and Owen building the service, Broverman covering the regulatory implications, and Stein's girlfriend, Polina Khentov, a graphic designer, designing the prototype, the idea turned into a viable business plan.
+Stein initially formed the idea for the company in 2008 when considering the mistakes he was making with his own personal investments. He wanted to build a platform that "told me what to do with my money, and then did it" (1), so he would not fall into typical bad investing habits, such as trying to time the market, selling winners too soon, and churning his portfolio. He initially planned to build the entire platform himself, but had no programming background, so he turned to his roommate at the time, Harvard CS major, Sean Owen. With Stein and Owen building the service, Broverman covering the regulatory implications, and Stein's girlfriend, Polina Khentov, a graphic designer, designing the prototype, the idea turned into a viable business plan. (2)
 
 * How is the company funded? How much funding have they received?
 
