@@ -18,7 +18,7 @@ Stein initially formed the idea for the company in 2008 when considering the mis
 
 * How is the company funded? How much funding have they received?
 
-Starting in August 2008, Stein and Broverman started with $320k from personal savings and angel funding. The site went live in May 2010, and the firm entered **TechCrush Disrupt New York** in June, winning the award of "Biggest New York Disruptor". In less than 24 hours, 500 people have signed up for the service. In November, the firm received Series A funding from Bessemer Venture Partners to the tune of $2m (plus another $1m from a few other investors). In October 2012, Menlo Ventures provided $10m in Series B funding, along with Bessemer and Anthemis Group. (1, 2, 3)
+Beginning in August 2008, Stein and Broverman started with $320k from personal savings and angel funding. The site went live in May 2010, and the firm entered TechCrush Disrupt New York in June, winning the award of "Biggest New York Disruptor". In less than 24 hours, 500 people have signed up for the service. In November, the firm received Series A funding from Bessemer Venture Partners to the tune of $2m (plus another $1m from a few other investors). In October 2012, Menlo Ventures provided $10m in Series B funding, along with Bessemer and Anthemis Group. (1, 2, 3)
 
 
 ## Business Activities:
